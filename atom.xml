@@ -6,7 +6,7 @@
   <link href="http://xy0v0.cn/atom.xml" rel="self"/>
   
   <link href="http://xy0v0.cn/"/>
-  <updated>2021-11-30T16:40:10.681Z</updated>
+  <updated>2021-11-30T18:43:12.162Z</updated>
   <id>http://xy0v0.cn/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://xy0v0.cn/2021/11/30/Hello-world-0/"/>
     <id>http://xy0v0.cn/2021/11/30/Hello-world-0/</id>
     <published>2021-11-29T18:40:17.000Z</published>
-    <updated>2021-11-30T16:40:10.681Z</updated>
+    <updated>2021-11-30T18:43:12.162Z</updated>
     
-    <content type="html"><![CDATA[<p>只是一个测试文档</p><span id="more"></span><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hello world!</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>只是一个测试文档</p><span id="more"></span><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hello world!</span><br></pre></td></tr></table></figure><p><img data-src="https://cdn.jsdelivr.net/gh/xy0v0/Pic/img/BingWallpaper.jpg" alt="测试图片"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;只是一个测试文档&lt;/p&gt;</summary>
