@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xy0v0的小岛</title>
+  
+  
+  <link href="http://www.xy0v0.cn/atom.xml" rel="self"/>
+  
+  <link href="http://www.xy0v0.cn/"/>
+  <updated>2021-11-30T16:40:10.681Z</updated>
+  <id>http://www.xy0v0.cn/</id>
+  
+  <author>
+    <name>xy0v0</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello,world!</title>
+    <link href="http://www.xy0v0.cn/2021/11/30/Hello-world-0/"/>
+    <id>http://www.xy0v0.cn/2021/11/30/Hello-world-0/</id>
+    <published>2021-11-29T18:40:17.000Z</published>
+    <updated>2021-11-30T16:40:10.681Z</updated>
+    
+    <content type="html"><![CDATA[<p>只是一个测试文档</p><span id="more"></span><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hello world!</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;只是一个测试文档&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
